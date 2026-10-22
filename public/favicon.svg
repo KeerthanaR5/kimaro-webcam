@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#0B0B0B"/>
+  <rect x="2" y="2" width="60" height="60" rx="14" stroke="#222426" stroke-width="2"/>
+  <!-- Kimaro Stylized K Glyph -->
+  <path d="M18 16V48" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M46 18C46 18 32 26 24 32" stroke="#D5FF83" stroke-width="6" stroke-linecap="round"/>
+  <path d="M26 32L46 46" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="48" cy="16" r="3" fill="#D5FF83"/>
+</svg>
