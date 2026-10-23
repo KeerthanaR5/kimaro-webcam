@@ -3,6 +3,7 @@
 > **Every detail in focus.**  
 > A premium, interactive product experience and dynamic camera companion for the Kimaro K-1 Pro webcam.
 
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://keerthanar5.github.io/kimaro-webcam/)
 [![React](https://img.shields.io/badge/React-19-blue.svg)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-6-purple.svg)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-v4-38bdf8.svg)](https://tailwindcss.com/)
